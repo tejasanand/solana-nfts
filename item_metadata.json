@@ -1,0 +1,36 @@
+{
+	"name"                   : "Solana Summer Fellowship 2024",
+	"symbol"                 : "Treikto x Solana",
+	"description"            : "cNFT collection from Tejas",
+	"seller_fee_basis_points": 0,
+	"image"                  : "https://ibb.co/55wc17C",
+	"external_url"           : "https://tejasanand.tech/",
+	"attributes"             : [
+		{
+			"trait_type": "X",
+			"value"     : "https://x.com/tejasanand_/"
+		},
+		{
+			"trait_type": "Mint date",
+			"value"     : "2024-09-15"
+		}
+	],
+	"collection": {
+		"name"  : "Treikto cNFTs Collection #2",
+		"family": "Treikto cNFTs"
+	},
+	"properties": {
+	  "files": [
+		{
+			"uri" : "https://ibb.co/55wc17C",
+			"type": "image/png"
+		}
+	  ],
+	  "category": "image"
+	},
+	"creators": {
+		"address" : "BsdgGRzDmVTM8FBepRXrQixMZgjP6smsSbuDb1Y7VJB6",
+		"verified": false,
+		"share"   : 100
+	}
+  }

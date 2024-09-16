@@ -2,6 +2,11 @@
   "name": "cnft",
   "module": "index.ts",
   "type": "module",
+  "scripts": {
+    "1_createNFTCollection": "bun run 1_createNFTCollection.ts",
+    "2_createMerkleTree": "bun run 2_createMerkleTree.ts",
+    "3_mintCNFT": "bun run 3_mintCNFT.ts"
+  },
   "devDependencies": {
     "@types/bun": "latest"
   },
